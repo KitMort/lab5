@@ -24,22 +24,29 @@ li{list-style-type: none;
     }
     ul{
        text-align: center; 
-       color: #7468BD;
+       color: #7E4F74;
     }
     p{
     margin-left: 10%;
 }
 blockquote{
     margin-left: 10%;
-    color: #B2AAF3;
+    color: #B87C77;
+}
+h1{
+    color:#5D3672;
 }
 h2{
     text-align: center;
-    color: #B2AAF3;
+    color: #8D5A75;
+    padding-top: 10px;
 }
 p{
     margin-left: 10%;
-    color: #B2AAF3;
+    color: #CA8979;
+}
+h4{
+    color: #AB7177;
 }
 .pet1{
     display: block;
@@ -64,4 +71,7 @@ p{
 *{ 
     background-color: #181A1F;
 
+}
+#copyright{
+    color:  #FAAE7B;
 }
